@@ -1,0 +1,55 @@
+ECR = The consulant
+FourWheel = Name of the company
+
+ECR: How many employees do you have here at FourWheel?
+
+Right now we have 10 mechanics employed, but we have been up to 15 when there was most to do. One of the mechanics also acts as a spare parts man. Then we have a customer recipient at the reception who welcomes the customers
+and inscribes their cars. And then my wife makes the accounts and I take care of selling new and used carts.
+
+(NOTE: I wrote 'spare parts man' because the danish word 'reservedelsmand' doesn't have a translation. It's basically just the guy who keeps stock on currently available spare parts. Before a mechanic takes one, they have to
+register it with him, so he knows that it's gone. They have to talk to him because he knows the price of these different parts.)
+
+ECR: OK, first of all I would like you to tell me a little about what your vision is for the new IT system? What do you want to gain in terms of business benefits?
+
+FourWheel: The new IT system must provide better support to the customer recipient so that he can do his job faster, and give customers a better experience. It must also be easier for the mechanics to put spare parts on the
+invoice. This way, I hope to save some money so that people can do their jobs a little faster. ANd my wife spends a lot of time printing invoices. If done electronically, she will have more time for other tasks.
+So lower operating costs is a business goal. Besides, the tax collectors have been after me. They want us to buy an accounting system that the new IT system would be able to talk to.
+
+ECR: Try and explain to me how it works currently. What happens when a customer walks through the front door and into the reception?
+
+FourWheel: Alright. So the customer will typically start by telling us the problem with their vehicle. ANd what it costs, of course! If the customer aggrees to let us fix it, then the customer recipient searches in the
+customer directory where we have a 'card' with information about each customer who has been here before. We sort the cards by the customers last name and then by the first name. Sometimes a customer has two cars, and then they've
+also got two cards. Then we can follow the history of that specific car. And if the car is sold, we can take the card out and delete it or change it.
+
+ECR: And what if it's a new customer, who's never been there before?
+
+FourWheel: Then we create a new card with the customer's information and data about the car. That is the customer's name, address and phone number. The car's brand, registration number and license plate.
+
+ECR: So by then, the recipient has found the customer's card or made a new one for the current car. What happens then?
+
+FourWheel: The customer recipient usually creates a card where you can see the car's registration number, the filing date of when the card was created, and a description of what work needs to be done.
+The cards are set up on a board in order so that the mechanics can easily find the next task. They take the oldest job first, of course, so that customers are served in turn.
+
+ECR: Is there anything in this assignment regarding the process of creating new customer cards that you would like the new IT system to improve?
+
+FourWheel: Well, we'd like the index cards to be saved electronically. And if you can make it easier to search in the cards and find customers more easily, that would be nice. I imagine that it would be smart if you
+could search on say, David, and everyone named David will appear on the screen with enough information to select the right one. Then you can click on, eg, Mark David and then you see the info about his vehicles.
+Here the customer recipient selects one of them and the current car's data appears (the model, registration and so on) Or you can type in the registration or the model and the system will find all that car's that fit. Is this possible?
+
+ECR: I'd say so, yes. Let's talk a little about the mechanics' daily routines. What's happening right now?
+
+FourWheel: When a mechanics has taken or accepted a work card (a card is one job, ie, change something on car x, repair something on car y) he writes down the start time. He does the work described on the card, writes in the
+spare parts used and possibly other comments if any. Every time a mechanics retrieves a spare part in the warehouse, he must have the spare part man to write on the work card what parts were used, as well as the price of those parts.
+It adds extra wait time once in a while. When the mechanics finish the car, he goes to clocks in the end time. The card is then handed to the customer recipient who sends it to my wife.
+She takes care of the invoice and sends it to the customer. The price is dependant on the spare parts used, as well as the amount of hours that the mechanic had to work.
+
+ECR: I imagine that the tasks should appear on a PC outside the workshop (i.e the customer recipient or in the office) in the order they are to be done.
+A free mechanic goes to read the assignment, writes his initials and accepts the assignment. When he needs a spare part, he searches it in the system and writes the number of parts needed.
+That information is stored together with the task cards, and the price of the parts is already stored there as well to calculate final prices.
+Eventually, the mechanics choose to finish the task and the time is saved along with other data about the task. The system can calculate the number of working hours itself since the start and end time are known.
+
+FourWheel: How can my wife create the invoice? She usually uses a spreadsheet, I guess?
+
+ECR: I'd go as far and say that she can just take most of the day off in the future. THe system can generate an invoice automatically, which can be printed as a so-called PDF file and sent to the customer or
+handed in when he fetches the car. It can also be sent by mail if you later want to expand the system. When the customer arrives to pick up the car, the customer recipient finds the finished work card in the system,
+and prints out the invoice.
